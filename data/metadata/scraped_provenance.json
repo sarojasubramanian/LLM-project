@@ -1,0 +1,1265 @@
+{
+  "scraping_session": {
+    "timestamp": "2025-10-12T01:58:01.190315+00:00",
+    "source": "instagram",
+    "method": "instagram_graph_api",
+    "total_posts_processed": 25,
+    "successful_downloads": 25,
+    "api_version": "v18.0",
+    "user_id": "17841477353793973"
+  },
+  "posts": [
+    {
+      "post_id": "17881953000392912",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsFQUMDCbd/",
+        "caption": "",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563954449_17847897918578460_2100602481430629776_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5_4pHGR0a2EQ7kNvwFizE-A&_nc_oc=Admqj0_-bwfUO2HebNmipO3dLgizTpXu-NV3NIWgal7bZD-LP9bX5lJvRRqwtxIstqo&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_Afe1wM1abncZT0_SIARMBMYNnDyMUjqXoJkof55NpmtnNA&oe=68F0CDEB",
+        "timestamp": "2025-10-12T00:18:06+0000",
+        "instagram_id": "17881953000392912"
+      },
+      "file_info": {
+        "image_name": "17881953000392912.jpg",
+        "image_path": "images/17881953000392912.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 0,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:50:02.176909+00:00",
+        "extracted_text": {
+          "main_text": "New to robotics? INTRO COURSE SIGNUPS FILL OUT INTEREST FORM FOR MORE INFO LEARN: • CAD (Onshape) • 3D Printing • Programming (C++) • Soldering BUILD YOUR OWN ELEGOO ROBOT!",
+          "title": "New to robotics?",
+          "keywords": [
+            "robotics",
+            "intro course",
+            "CAD",
+            "3D printing",
+            "programming",
+            "soldering",
+            "Elegoo robot"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows an advertisement for an introductory robotics course, with information about the topics covered and an invitation to fill out an interest form for more details. The image also includes an illustration of three people working on a robotics project.",
+          "text_locations": [
+            "top-left",
+            "center",
+            "bottom-right"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18093390958697441",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsFKLiDOOO/",
+        "caption": "",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563330101_17847897855578460_1104042692387714084_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gXBq3pnPkSQQ7kNvwHFpATO&_nc_oc=AdkzLtEIkuU7yP1FycUv_kO3yEPrQizKG86NEnv_2c9_hhEc7sT0LuJJ3nzpdmO7q-8&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfcLrKAgOmo2dcmkXqZhqfOIn9d7Z2WI74jEryKPJQu0BA&oe=68F0F5F1",
+        "timestamp": "2025-10-12T00:17:16+0000",
+        "instagram_id": "18093390958697441"
+      },
+      "file_info": {
+        "image_name": "18093390958697441.jpg",
+        "image_path": "images/18093390958697441.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 1,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:23.053535+00:00",
+        "extracted_text": {
+          "main_text": "IEEE Northeastern\nIEEE + NURobotics\nSPEAKER EVENT\nMathWorks\nIEEE and NURobotics collab!\nJoin us to hear from mathworks,\nand enjoy free pizza!\nCurry Student Center 340\n11:45 AM\nFebruary 26th, 2025",
+          "title": "IEEE + NURobotics SPEAKER EVENT",
+          "keywords": [
+            "IEEE",
+            "NURobotics",
+            "MathWorks",
+            "speaker event",
+            "pizza"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows the IEEE Northeastern logo and text announcing an IEEE + NURobotics speaker event featuring MathWorks. The event details include the location, time, and date.",
+          "text_locations": [
+            "top-left",
+            "center",
+            "bottom-right"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17973066548948932",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsE-BYDB6J/",
+        "caption": "",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/562764070_17847897615578460_7859013796523795045_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SxtN81NtLqYQ7kNvwHCsi17&_nc_oc=AdneMEGifljNHwG56vGtq_T4Wbn5Ov5VyK0CJpSePC7UO84MrK3EuiAqX1AVhE8Bq6Q&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_Afdfw2uJHk2y64uaqF7bt2WpwO9P8-CBV6R8QTA_2tb0rw&oe=68F0E512",
+        "timestamp": "2025-10-12T00:15:37+0000",
+        "instagram_id": "17973066548948932"
+      },
+      "file_info": {
+        "image_name": "17973066548948932.jpg",
+        "image_path": "images/17973066548948932.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 2,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:50:17.646893+00:00",
+        "extracted_text": {
+          "main_text": "NUROBOTCS CAMBRIDGE TRIP Saturday, April 5th 3:00PM - 6:30PM Join us for a day of puzzling and exploring in Cambridge! We will be doing a group trip to Harvard Square and dinner at Mr Bartley's Burger Cottage Prior Sign Up Required!!",
+          "title": "CAMBRIDGE TRIP",
+          "keywords": [
+            "Cambridge",
+            "Harvard Square",
+            "Mr Bartley's Burger Cottage",
+            "puzzling",
+            "exploring"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a colorful and vibrant design with various shapes and icons, including a hamburger, a robot, and a kite. The main text in the image is about a trip to Cambridge organized by the Nurobotcs group, with details about the date, time, and activities planned.",
+          "text_locations": [
+            "top-left",
+            "center",
+            "bottom-right"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18114533446551846",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsExtXjE07/",
+        "caption": "🎤 Move-In Concert Series 🎤 Live at Stetson East Quad\n \nStart your semester with live performances daily from 11 AM - 5 PM at Stetson East Quad. Don’t miss these artists:\n \n- Inspirado - 27 August 2024\n- Evan Cole - 30 August 2024\n- Joe Carson - 31 August 2024\n- Inspirado - 2 September 2024\n \nCome for the music, stay for the energy. See you there!\n\n#MoveInConcert #Northeastern #LiveMusic #CampusEvents #northeasternuniversity",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/561919562_17847897528578460_3683942135338387348_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vmRa_H16QwIQ7kNvwEfnOKV&_nc_oc=AdnYqTt8opNYp3F7y79gZTwH3WarfbXVPZgiAaglAnZyJhyMT8dNfiO3b7iNUuOiVYw&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfeT0hjCwMF26YnY0psSugJkzM7TJ-pnO3RgGVtlfeO6rw&oe=68F0F134",
+        "timestamp": "2025-10-12T00:13:56+0000",
+        "instagram_id": "18114533446551846"
+      },
+      "file_info": {
+        "image_name": "18114533446551846.jpg",
+        "image_path": "images/18114533446551846.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 3,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:31.028372+00:00",
+        "extracted_text": {
+          "main_text": "MOVE-IN CONCERT\nAT STETSON EAST QUAD\n11 AM - 5 PM\nINSPIRADO | 27 AUGUST 2024\nJOE CARSON | 31 AUGUST 2024\nEVAN COLE | 30 AUGUST 2024\nINSPIRADO | 2 SEPTEMBER 2024",
+          "title": "MOVE-IN CONCERT",
+          "keywords": [
+            "move-in",
+            "concert",
+            "stetson east quad",
+            "inspirado",
+            "joe carson",
+            "evan cole"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a concert stage with a large 'MOVE-IN CONCERT' text displayed. The stage is surrounded by smoke or fog, and there are silhouettes of musicians performing on the stage. The image also displays information about the concert, including the date, time, and performers.",
+          "text_locations": [
+            "top",
+            "center",
+            "bottom"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17974269155939391",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsEmf9DKGf/",
+        "caption": "🏠 Get ready to welcome new beginnings! Starting August 27th, it's official Move-In week. Don't miss out on the chance to rock your special shirts available at RSO – for shifts from August 27th through September 4th.\n\n#RSO #NortheasternRSO #ResidentialSecurityOffice #NortheasternResidentialSecurityOffice #MoveInWeek #FallMoveIn #CollegeMoveInDay",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/561690446_17847897354578460_4532003726945556256_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=R1zkugOpmvYQ7kNvwE5eI1j&_nc_oc=AdlPvcJY7iP4JYzPUBlcTX6Q9TW897n7WswNXAOd8JOGwelJ18T8NzSbTn0EaPcmbpY&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AffYw-XkavukjdJXqhSlUQ_DUc1n_ehgvYseC5tED9zFWA&oe=68F0D629",
+        "timestamp": "2025-10-12T00:12:24+0000",
+        "instagram_id": "17974269155939391"
+      },
+      "file_info": {
+        "image_name": "17974269155939391.jpg",
+        "image_path": "images/17974269155939391.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 4,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:11.558290+00:00",
+        "extracted_text": {
+          "main_text": "{\n    \"extracted_text\": {\n        \"main_text\": \"Celebrate MOVE-IN WEEK with us! ONE SHIRT PER ACTIVE PROCTOR TO BE WORN FOR MOVE-IN WEEK AUG 27 - SEP 4 GRAB YOUR SPECIAL SHIRTS FROM RSO AT SPEARE HALL\",\n        \"title\": \"Celebrate MOVE-IN WEEK\",\n        \"keywords\": [\"move-in week\", \"northeastern rso\", \"shirts\", \"proctor\"],\n        \"text_confidence\": 0.95,\n        \"language\": \"english\"\n    },\n    \"image_description\": \"The image shows a yellow background with black text and graphics. It advertises a \"Move-In Week\" event, with details about shirts to be worn by active proctors during the event, which will take place from August 27 to September 4. The shirts can be obtained from the Northeastern RSO (Residential Student Organization) at Speare Hall.\",\n    \"text_locations\": [\"top-center\", \"center\", \"bottom-center\"]\n}",
+          "title": null,
+          "keywords": [],
+          "confidence": 0.5,
+          "language": "unknown"
+        },
+        "image_analysis": {
+          "description": "Raw response (parsing failed): {\n    \"extracted_text\": {\n        \"main_text\": \"Celebrate MOVE-IN WEEK with us! ONE SHIRT PER ACTIVE PROCTOR TO BE WORN FOR MOVE-IN WEEK AUG 27 - SEP 4 GRAB YOUR SPECIAL SHIRTS FROM RSO AT SPEARE HALL...",
+          "text_locations": []
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18375630646196277",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsEfrEDNBc/",
+        "caption": "Are you ready to double your confidence in preparedness? 💪 Join us in celebrating Preparedness Day on 12th October, where Husky Card and RSO come together to enhance your safety and readiness.\n\nHere's what you can expect:\n\n🚨Information Galore: Learn about campus safety, residential security measures, and how your Husky Card plays a crucial role in access control. \n\n🗣️ Discussion-Based Exercises: Engage in meaningful conversations and exercises with fellow students and experts. \n\n🎁 Free Merch: Don't miss out on our exclusive Preparedness Day merch! Be one of the first attendees, and snag some cool swag to show your preparedness pride. \n\nMark your calendars and join us on Preparedness Day, 12th October at Curry Student Centre!\n\n#PreparednessDay #NortheasternUniversity #HuskyCardServices #RSO #ResidentialSecurityOffice #NortheasternPreparednessDay",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/561834061_17847897219578460_512901993792164771_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=LFbR0i7V4B0Q7kNvwFkp1dF&_nc_oc=AdlK3BO6-i8jriVndkX0Q27U7uoRDifsMxL4l25hqhFjzdQ8TZKD42pLcCC1pu-KVto&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_Afct936TZfXo08lWwiGmOJ35UaVYZx5tOErD9FTfMJ1vsw&oe=68F0EBDF",
+        "timestamp": "2025-10-12T00:11:28+0000",
+        "instagram_id": "18375630646196277"
+      },
+      "file_info": {
+        "image_name": "18375630646196277.jpg",
+        "image_path": "images/18375630646196277.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 5,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:45.067500+00:00",
+        "extracted_text": {
+          "main_text": "DOUBLE THE PREPAREDNESS\nDOUBLE THE CONFIDENCE\nNortheastern University Husky Card Services\nNortheastern University Residential Security Office\nHusky Card\nServices\nCurry Student Center",
+          "title": "DOUBLE THE PREPAREDNESS\nDOUBLE THE CONFIDENCE",
+          "keywords": [
+            "Northeastern University",
+            "Husky Card Services",
+            "Residential Security Office"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows the logos and text of Northeastern University's Husky Card Services and Residential Security Office, along with the text 'DOUBLE THE PREPAREDNESS' and 'DOUBLE THE CONFIDENCE'.",
+          "text_locations": [
+            "top-center",
+            "center",
+            "bottom-center"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18065790023071755",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsEXUujOfT/",
+        "caption": "Move-In Week starts on August 25th! 🚚✨ Special shirts for shifts from August 25th to September 2nd are ready for you Proctors! 👕✨ Don’t forget to pick yours up at the front desk in 4 Speare Hall.",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563767594_17847896970578460_149141028013447031_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jgdspCg5algQ7kNvwFiwKkS&_nc_oc=AdkTgYCbPn-zAqYXd_PzKQdqJ6dr1xQDfLoVdBW7B1ugu0v8Uc4j23blqENW7TzToXo&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfdRhDpXPI7bS4N6TrBmG9tWEeiMJoBRDnM_A8IowJC8mA&oe=68F0E1AD",
+        "timestamp": "2025-10-12T00:10:20+0000",
+        "instagram_id": "18065790023071755"
+      },
+      "file_info": {
+        "image_name": "18065790023071755.jpg",
+        "image_path": "images/18065790023071755.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 6,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:15.979720+00:00",
+        "extracted_text": {
+          "main_text": "MOVE-IN WEEK\nGrab an RSO T-Shirt\nOne shirt per active proctor\nTo be worn for the move-in week\nHow can I help you today?\nResidential Security Office",
+          "title": "MOVE-IN WEEK",
+          "keywords": [
+            "move-in week",
+            "RSO T-Shirt",
+            "active proctor",
+            "Residential Security Office"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a black background with a yellow circle in the center. Inside the circle is a black t-shirt with the text 'RSO' printed on it. Below the t-shirt, there is text that says 'MOVE-IN WEEK', 'Grab an RSO T-Shirt', 'One shirt per active proctor', 'To be worn for the move-in week', and 'How can I help you today? Residential Security Office'.",
+          "text_locations": [
+            "top-center",
+            "center",
+            "bottom-center"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18288565693275995",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsEN8fjOCi/",
+        "caption": "Kick Off the Semester with Live Music! 🎵\n\nJoin us at International Village for the Move-In Concert from 11 AM - 5 PM.\n\n🗓️ Wednesday, August 28 - Jim Taft\n🗓️ Thursday, August 29 - Inspirado\n\nStart the year with great music and good vibes. See you there!\n\n#MoveInConcert #Northeastern #CampusLife",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563368251_17847896784578460_8943953406138486667_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gVQ_2XH5DWYQ7kNvwGitb-P&_nc_oc=Adka5NR-KpM9MAzUB3HQWeU25vOe9DoYQwk2j8xj9FFaZmAXS1KvkpfP79aX90d0L2c&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AffeNQ5zDNIwsZ8wwgGPHHtprBZSRwwiOg3Zo0QZW262dw&oe=68F0C865",
+        "timestamp": "2025-10-12T00:09:03+0000",
+        "instagram_id": "18288565693275995"
+      },
+      "file_info": {
+        "image_name": "18288565693275995.jpg",
+        "image_path": "images/18288565693275995.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 7,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:37.527446+00:00",
+        "extracted_text": {
+          "main_text": "MOVS-TM CONCERT AT INTERNATIONAL VILLAGE 11AM-5PM JIM TAFT WEDNESDAY 28 AUGUST 2024 INSPIRADO THURSDAY 29 AUGUST 2024",
+          "title": "MOVS-TM CONCERT",
+          "keywords": [
+            "concert",
+            "music",
+            "performance",
+            "international village"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a concert event poster for a MOVS-TM concert taking place at the International Village on August 28 and 29, 2024. The poster features the event title in large neon-style text, along with the performance dates and times, as well as the names of the two featured artists - Jim Taft and Inspirado.",
+          "text_locations": [
+            "top",
+            "center",
+            "bottom"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18288945991258584",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsECwkjE07/",
+        "caption": "Move-In Week is here!🏠🚚 All proctors and RAs should grab a special RSO shirt for shifts from August 26th to September 1st!👕 Pick yours up today at the front desk in 4 Speare Hall! —There's a limited number of each size, so grab yours ASAP!\n\n#MoveInWeek #NortheasternUniversity #northeastern",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/562676617_17847896379578460_7772602836779086269_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z7uvmNE_kz4Q7kNvwGHaok0&_nc_oc=AdmQepczmjq5Dys7pI-iFVg9mkwj92bu631p2y-8P7FtmegZoJbBH0JF8He9okQ38Eo&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfeG020o5F2777IA-4fEGsS5DklIsf55V5-usx-HcTiOTQ&oe=68F0F818",
+        "timestamp": "2025-10-12T00:07:31+0000",
+        "instagram_id": "18288945991258584"
+      },
+      "file_info": {
+        "image_name": "18288945991258584.jpg",
+        "image_path": "images/18288945991258584.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 8,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:40.180579+00:00",
+        "extracted_text": {
+          "main_text": "{\n    \"extracted_text\": {\n        \"main_text\": \"MOVE-IN WEEK\\n\\nIF YOU HAVEN'T\\nALREADY, GRAB AN\\nRSO T-SHIRT AT\\nSPEARE HALL\\n\\nOne shirt per active\\nproctor or RA!\\n\\nTo be worn for\\nmove-in week\",\n        \"title\": \"MOVE-IN WEEK\",\n        \"keywords\": [\"move-in week\", \"RSO t-shirt\", \"Speare Hall\"],\n        \"text_confidence\": 0.95,\n        \"language\": \"english\"\n    },\n    \"image_description\": \"The image shows a poster for Northeastern University's Residential Security Office (RSO) Move-In Week. The poster features the Northeastern University logo, the text \"MOVE-IN WEEK\", and instructions for students to grab an RSO t-shirt at Speare Hall, with one shirt per active proctor or RA. The poster also includes a graphic of a t-shirt with the text \"How can I help? RSO Boston Move-In Week\" and some colorful splatter effects.\",\n    \"text_locations\": [\"top-center\", \"center\", \"bottom-center\"]\n}",
+          "title": null,
+          "keywords": [],
+          "confidence": 0.5,
+          "language": "unknown"
+        },
+        "image_analysis": {
+          "description": "Raw response (parsing failed): {\n    \"extracted_text\": {\n        \"main_text\": \"MOVE-IN WEEK\\n\\nIF YOU HAVEN'T\\nALREADY, GRAB AN\\nRSO T-SHIRT AT\\nSPEARE HALL\\n\\nOne shirt per active\\nproctor or RA!\\n\\nTo be worn for\\nmove-in week\",\n...",
+          "text_locations": []
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17905550553122174",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsD41ZjNIb/",
+        "caption": "Hey Huskies! Preparedness Day is just around the corner (10/17) 🐾 It’s the perfect opportunity to build confidence and find resources for tricky situations. Join Husky Card Services and Residential Security at Curry Student Center from 10 AM - 2 PM to get your questions answered about:\n🪪Your Husky Card\n📱Access with GET Mobile\n🏠Residence hall access & Guest policies\n… and more!",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563797182_17847896172578460_1872446245527333064_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=odGjPQQhffoQ7kNvwHkZik_&_nc_oc=AdnEgE8QDhjrxIDQ-OYo1kG03Ano3X8M5SDo2EfVkW6PQRsoztuQTstG4ChryEs7I5w&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfdiY3YG8slZXQuNTmx5OJqFeLSTua4LHL9IMkdrq6YUFQ&oe=68F0C86C",
+        "timestamp": "2025-10-12T00:06:10+0000",
+        "instagram_id": "17905550553122174"
+      },
+      "file_info": {
+        "image_name": "17905550553122174.jpg",
+        "image_path": "images/17905550553122174.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 9,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:50:11.164913+00:00",
+        "extracted_text": {
+          "main_text": "{\n    \"extracted_text\": {\n        \"main_text\": \"PREPAREDNESS DAY 2825\\nThursday, October 16th\\n10:00 AM - 2:00 PM\\nCurry Student Center\\nCOME VISIT US FOR QUESTIONS ABOUT:\\n• Your Husky Card\\n• Access with GET Mobile\\n• Residence hall access & guest policies\\n• AND MORE!\",\n        \"title\": \"PREPAREDNESS DAY 2825\",\n        \"keywords\": [\"Husky Card\", \"GET Mobile\", \"Residence hall access\", \"guest policies\"],\n        \"text_confidence\": 0.95,\n        \"language\": \"english\"\n    },\n    \"image_description\": \"The image shows a poster for an event called \"Preparedness Day 2825\" hosted by Northeastern University Husky Card Services and Northeastern University Residential Security. The poster provides details about the event, including the date, time, location, and the topics that will be covered.\",\n    \"text_locations\": [\"top-center\", \"center\", \"bottom-center\"]\n}",
+          "title": null,
+          "keywords": [],
+          "confidence": 0.5,
+          "language": "unknown"
+        },
+        "image_analysis": {
+          "description": "Raw response (parsing failed): {\n    \"extracted_text\": {\n        \"main_text\": \"PREPAREDNESS DAY 2825\\nThursday, October 16th\\n10:00 AM - 2:00 PM\\nCurry Student Center\\nCOME VISIT US FOR QUESTIONS ABOUT:\\n• Your Husky Card\\n• Access...",
+          "text_locations": []
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17986879463728744",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsDhkMgT_Q/",
+        "caption": "Gear up for NU Sanskriti’s retro gala 🪩 — Nilaave Vaa!\n\nFasten your seatbelts on this musical Time Machine ⏳🎶\nWarning: may cause spontaneous head-bobbing and nostalgia ✨🕺💃\n\nTickets go live tomorrow at 7 PM — link in bio! 🎟️📻",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563601023_17847896019578460_8019328022811239948_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cO-r_I6Xz4YQ7kNvwHt-MOa&_nc_oc=Adl_pkPZkOMmy6VCfyM_-qpJOicyA0WO5PGohKW0JfIHSjGu66M4IU7HsutOlgX-42c&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfdWY5GEjSTPJLCFSKvXn7JTYFez-lAcqVsnbj1TMqLcrw&oe=68F0F05D",
+        "timestamp": "2025-10-12T00:02:59+0000",
+        "instagram_id": "17986879463728744"
+      },
+      "file_info": {
+        "image_name": "17986879463728744.jpg",
+        "image_path": "images/17986879463728744.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 10,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:13.503636+00:00",
+        "extracted_text": {
+          "main_text": "Nilaave Vaa\nAPRIL 12TH 2025\n7:45 PM ONWARDS\nRAYTHEON AMPHITHEATRE",
+          "title": "Nilaave Vaa",
+          "keywords": [
+            "music",
+            "concert",
+            "event"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a poster for an event called 'Nilaave Vaa' taking place on April 12th, 2025 at the Raytheon Amphitheatre starting at 7:45 PM onwards. The poster features various musical equipment and a person wearing a disco ball-like helmet, suggesting a music or concert event.",
+          "text_locations": [
+            "top-center",
+            "center",
+            "bottom-center"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18094778371774456",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsDZJcAWmO/",
+        "caption": "🎓✈️ Just landed in the USA?\n Welcome to Northeastern University, Boston! 🇺🇸\n\nStarting a new chapter can feel overwhelming but don’t worry, we’ve got you covered! 💪\nFrom setting up your 🪪 Husky Card to discovering 🎁 student perks across Boston, this guide walks you through everything you need during your first week.\n\n👉 Swipe through to explore your ✨ must-do arrival checklist!\n\n🌐 For the complete list  and more student resources 📚, check out our Notion page.",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563117758_17847895971578460_5338515537350395296_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=H0fm5JzMHbQQ7kNvwH9k7xM&_nc_oc=AdnS68IXvejrUfyeutpGXH4LT3cHl_4YZHaYqwBuyUktCPLGyYcVDjcCg7QQky0vmFo&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfefRkfIb1dKy-VNZio29fgfuvkYiw3WRPZO7uAMiKbWhg&oe=68F0C96B",
+        "timestamp": "2025-10-12T00:01:50+0000",
+        "instagram_id": "18094778371774456"
+      },
+      "file_info": {
+        "image_name": "18094778371774456.jpg",
+        "image_path": "images/18094778371774456.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 11,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:24.948099+00:00",
+        "extracted_text": {
+          "main_text": "Nu Sanskriti NU INDIAN STUDENTS' ASSOCIATION Just Landed in the USA?",
+          "title": "Nu Sanskriti NU INDIAN STUDENTS' ASSOCIATION",
+          "keywords": [
+            "nu sanskriti",
+            "nu indian students' association",
+            "just landed in the usa"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows the logo of the Nu Sanskriti NU INDIAN STUDENTS' ASSOCIATION along with various travel-related icons such as airplanes, a passport, a suitcase, and a SIM card, suggesting the theme of Indian students arriving in the USA.",
+          "text_locations": [
+            "top-center",
+            "center"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18078341705474759",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsDSbRgeH1/",
+        "caption": "🌸🙏 Happy Janmashtami! 🙏🌸\nNU Sanskriti wishes you a day filled with joy, devotion, and blessings on the auspicious birth anniversary of Lord Krishna. 💛🎶\nMay the teachings of Krishna inspire us to live with love, wisdom, and harmony. 🌼✨\n\nFrom all of us at NU Sanskriti, we wish our Northeastern University family and the Indian community in Boston a blissful and vibrant Janmashtami! 🌿🪔",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563525780_17847895914578460_422765321738089857_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-ShDQvuWlmwQ7kNvwEi_Kpg&_nc_oc=AdnSXIiRlsdYxOkQc3k_z26XC0RMq10b-5-SrkLmdNxj1otgMU9sW53kXaB0Bb9tsPA&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfdEKZtm06_NmaWmJYUHN0i5pR-JUYBCBFPS-4IjJKSikQ&oe=68F0C4A7",
+        "timestamp": "2025-10-12T00:00:55+0000",
+        "instagram_id": "18078341705474759"
+      },
+      "file_info": {
+        "image_name": "18078341705474759.jpg",
+        "image_path": "images/18078341705474759.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 12,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:18.221360+00:00",
+        "extracted_text": {
+          "main_text": "Nu Sanskruti INDIAN STUDENTS' ASSOCIATION Happy Janmashtami KRISHNA BHAJAN SANDHYA JOIN US IN CELEBRATING THE AUSPICIOUS OCCASION OF LORD KRISHNA'S BIRTHDAY AUGUST 16TH TIME: 7:00PM VENUE : SACRED SPACE",
+          "title": "Happy Janmashtami",
+          "keywords": [
+            "Krishna Bhajan Sandhya",
+            "Lord Krishna's Birthday",
+            "Indian Students' Association"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows an invitation for a Krishna Bhajan Sandhya event organized by the Indian Students' Association. It features the association's logo, a message wishing 'Happy Janmashtami', and details about the event including the date, time, and venue.",
+          "text_locations": [
+            "top-left",
+            "center",
+            "bottom-right"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17898848415164647",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsDAmXgait/",
+        "caption": "Welcoming the New Year(s) with vibrant traditions and heartfelt wishes from across India!🇮🇳\n\nPohela Boishakh 🎉, Puthandu 🌼, Vishu 🌞, and Bohag Bihu 🥁 — each a beautiful celebration of joy, hope, and new beginnings!\nLet’s cherish the diversity that unites us and embrace the spirit of renewal!\n\n#HappyPohelaBoishakh #HappyPuthandu #HappyVishu #HappyBohagBihu\n#IndianNewYear #Northeastern #NUSanskriti #StudentCommunity\n#SpringFestivals #CulturalCelebration #UnityInDiversity #NewBeginnings #FestivalVibes",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563345842_17847895725578460_2846983825585866805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_xRQdX5nO6UQ7kNvwHu536w&_nc_oc=Adn8A1SRjqqyxpYQoQaMbvhh345BulWrtRXjP-1R_7bNrSQxLL4vYHMJ6gvRqA7IEz8&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfdadFEu_yVi4vkGdX8L2OoCsaA-TbPD82z8MKzk1T3jbg&oe=68F0EA6D",
+        "timestamp": "2025-10-11T23:58:29+0000",
+        "instagram_id": "17898848415164647"
+      },
+      "file_info": {
+        "image_name": "17898848415164647.jpg",
+        "image_path": "images/17898848415164647.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 13,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:50:08.732855+00:00",
+        "extracted_text": {
+          "main_text": "HAPPY BOHAG BIHU\nMAY THE SPIRIT OF BOHAG BIHU FILL YOUR HEART WITH NEW HOPES, WARMTH,AND JOY THAT BLOSSOMS LIKE SPRING",
+          "title": "HAPPY BOHAG BIHU",
+          "keywords": [
+            "Bohag Bihu",
+            "new hopes",
+            "warmth",
+            "joy",
+            "spring"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a festive illustration depicting the Bohag Bihu celebration. It features two people in traditional Assamese attire, one playing a drum and the other holding a flower. The background is a deep red color with decorative patterns, and the text wishes for the spirit of Bohag Bihu to fill the viewer's heart with new hopes, warmth, and joy that blossoms like spring.",
+          "text_locations": [
+            "top",
+            "center"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18187524904332439",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsCzNsgWXC/",
+        "caption": "🙏🌸 Happy Ganesh Chaturthi from NU Sanskriti! 🌸🙏\n\nAs we welcome Lord Ganesha this festive season, may his blessings bring wisdom, peace, and prosperity into our lives. ✨\n\nJoin us in celebrating together at Northeastern University with devotion, joy, and unity. 💛",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/561724661_17847895527578460_7656222596376975273_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EBrHyM1JiMkQ7kNvwGyhzCU&_nc_oc=AdlkqMcKcAn8OC26Wq1M5q9xHcG60BaXH6r5xUfvunnvvn2EN9eBwryJezO3Oo1UxgQ&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AffseTUlNtXMVfS1NO4vmXavIEzS7BOevsYdmxJ3BmlRPg&oe=68F0CC2E",
+        "timestamp": "2025-10-11T23:56:39+0000",
+        "instagram_id": "18187524904332439"
+      },
+      "file_info": {
+        "image_name": "18187524904332439.jpg",
+        "image_path": "images/18187524904332439.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 14,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:35.458222+00:00",
+        "extracted_text": {
+          "main_text": "Nu Sanskruti\nNo Indian Students' Association\nHappy Ganesh Chaturthi\nWishing you a joyful and prosperous Ganesh Chaturthi!\nMay Lord Ganesha bring peace, happiness, and success to your life.",
+          "title": "Happy Ganesh Chaturthi",
+          "keywords": [
+            "Ganesh Chaturthi",
+            "Indian Students' Association",
+            "Nu Sanskruti"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a colorful and ornate statue of the Hindu deity Ganesha, the elephant-headed god, against a red and yellow background with floral decorations. The text in the image wishes the viewer a happy and prosperous Ganesh Chaturthi, a Hindu festival celebrating the birth of Ganesha.",
+          "text_locations": [
+            "top-left",
+            "center",
+            "bottom"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17845890228567229",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsCZffgfV-/",
+        "caption": "🌸🙏 From the NU Sanskriti family at Northeastern University, we wish you peace, prosperity, and positivity. ✨💛\n\nTogether, as a community, we continue to celebrate culture, tradition, and unity here in Boston. 🎶🇮🇳🐾\n\n#NUSanskriti #NortheasternUniversity #NUIndianStudents\n#GaneshChaturthi #GanpatiBappaMorya #GaneshUtsav2025\n#BostonStudentLife #StudyInBoston #NEUEvents\n#BostonIndianCommunity #IndianCultureBoston #NUCommunity\n#IndianStudentsInUSA #CultureUnitesUs",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563529217_17847895155578460_7381294748863767762_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BzAwWfxtwEkQ7kNvwGH8xXK&_nc_oc=AdkXLSLl-ko1j0kKJMuJSmPUQ6hHXYt10iIyUnhjFoYgV9Q5934ItzYLldEYfyCJ3Mw&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfcbgsIgK7FI42iCzsyRbZLC9FIwYCI8hNbagRG2IS9JCQ&oe=68F0D4F1",
+        "timestamp": "2025-10-11T23:53:09+0000",
+        "instagram_id": "17845890228567229"
+      },
+      "file_info": {
+        "image_name": "17845890228567229.jpg",
+        "image_path": "images/17845890228567229.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 15,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:31:26.712656+00:00",
+        "extracted_text": {
+          "main_text": "MICHCHHAMI DUKKADAM\nSeeking forgiveness for any harm done\nKnowingly or unknowingly",
+          "title": "MICHCHHAMI DUKKADAM",
+          "keywords": [
+            "forgiveness",
+            "harm",
+            "knowingly",
+            "unknowingly"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows the logo of the Indian Students' Association, which consists of a sun-like symbol with the text 'Nu Sanskruti' below it. The main text in the image is 'MICHCHHAMI DUKKADAM' with an illustration of praying hands below it, along with the text 'Seeking forgiveness for any harm done Knowingly or unknowingly'.",
+          "text_locations": [
+            "center",
+            "bottom"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17871572988440856",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsCTClgau1/",
+        "caption": "🍁 Get ready to FALL into the festive spirit! 🎉\nJoin us at Fall Fest 2025 and learn more about the vibrant Indian culture and traditions we celebrate at NU Sanskriti 🇮🇳✨\n\n Egan Pathway\n September 2, 2025\n🕛 12 PM – 4 PM\n\nDiscover our biggest upcoming events:\n🪔 Ganesh Visarjan\n💃 Rangeelo Raas – Boston’s biggest Garba Night\n🎇 NU Deepavali Celebrations\n\nLet’s celebrate together as one big family at Northeastern University!\nStop by our stall for fun, updates, and giveaways! 🎁\n\n Link in bio for event updates & volunteer forms\n\n#NUSanskriti #FallFest2025 #NortheasternUniversity #IndianStudentsNEU #BostonIndianCommunity #NUEvents #RangeeloRaas2025 #GaneshVisarjan2025 #Deepavali2025 #CulturalFest #NUCulture #IndianStudentsInUSA #StudentClubsNEU #ExploreNEU #NUFamily #BollywoodVibes #BostonFallFest #NEUFallFest #NUCommunity #BostonLife",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/564158708_17847895125578460_3070427769087549248_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vXl3sFoPPHcQ7kNvwEksMEG&_nc_oc=AdlV_zWKeCpiFeKA0ZCBQbjoQa3_Hq1kQYb8h7pKUl2sS87_g_aXyfWn9QsgA3ehQxg&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfcIa9r7yD7c_MRX2SQlamb6a0CtkJE3jCokbMs0LYbOXg&oe=68F0CE91",
+        "timestamp": "2025-10-11T23:52:16+0000",
+        "instagram_id": "17871572988440856"
+      },
+      "file_info": {
+        "image_name": "17871572988440856.jpg",
+        "image_path": "images/17871572988440856.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 16,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:49:59.928887+00:00",
+        "extracted_text": {
+          "main_text": "JOIN US DURING FALL FEST 02 SEP 2025 FROM: 12PM-4PM EGAN PATHWAY TO KNOW MORE ABOUT OUR CLUB AND EVENTS THE GRAND GANESH VISARJAN RANGEELO RAAS - 2025 NU DEEPAVALI CELEBRATIONS - 2025 JOIN US AND BECOME PART OF THE NU SANSKRITI COMMUNITY AT NORTHEASTERN UNIVERSITY.",
+          "title": "JOIN US DURING FALL FEST",
+          "keywords": [
+            "Fall Fest",
+            "Ganesh Visarjan",
+            "Rangeelo Raas",
+            "Deepavali Celebrations",
+            "NU Sanskriti Community"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a poster for an event called 'Fall Fest' organized by the Indian Students' Association at Northeastern University. The poster features fall-themed decorations like leaves and a sun symbol, as well as information about the event date, time, location, and other upcoming events like the Grand Ganesh Visarjan, Rangeelo Raas, and NU Deepavali Celebrations.",
+          "text_locations": [
+            "top-center",
+            "center",
+            "bottom-center"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18113339560542895",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsCMk9AYeV/",
+        "caption": "Hey dancers of Northeastern! ✨\n\nIt’s that time of the year 🎉 Ghungroove is looking for fresh energy, crazy moves, and unstoppable passion 💃🕺 You’ll get a chance to audition across all styles, so bring your best and show us what you’ve got 🔥\n\n🗓️Audition Dates\n\nSeptember 12th - 6:30pm to 9pm\nSeptember 13th - 6:30 pm to 9pm\n\nVenue : East Village 002\n\nCan’t wait to see you all this weekend! 🤍\n\nDM @nusanskriti_ghungroove for further queries.\n#dance #audition",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563620613_17847894999578460_4725715109876607814_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=VwhUwmjg_3MQ7kNvwHUk0KQ&_nc_oc=AdmTUeLiaaaRkOzacIBptdEaFvauYECHfhwgnFhi7mVqAFiMX_3k5Bkty0DlXKfmXv0&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfdCQgrkwZLgV_Vm3gpkdUZBZvNOEKfTuCh3qkN7cIydiw&oe=68F0DABA",
+        "timestamp": "2025-10-11T23:51:23+0000",
+        "instagram_id": "18113339560542895"
+      },
+      "file_info": {
+        "image_name": "18113339560542895.jpg",
+        "image_path": "images/18113339560542895.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 17,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:28.267364+00:00",
+        "extracted_text": {
+          "main_text": "NU SANSKRITI GHUNGROOVE\nDANCE AUDITIONS\nFALL 2025\nYOU CAN AUDITION FOR\nCLASSICAL\nBOLLYWOOD\nKATHAK\nHIP-HOP\nGARBA\nKUTHU\nFREESTYLE\nMARATH MOL\nWHEN?\nSEP 12 - 6:30pm to 9pm\nSEP 13 - 6:30pm to 9pm\nWHERE?\nVenue : East Village 002\nSWIPE TO REGISTER",
+          "title": "NU SANSKRITI GHUNGROOVE DANCE AUDITIONS FALL 2025",
+          "keywords": [
+            "classical",
+            "bollywood",
+            "kathak",
+            "hip-hop",
+            "garba",
+            "kuthu",
+            "freestyle",
+            "marath mol"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a poster for dance auditions organized by the Nu Sanskriti Ghungroove Indian student association. The poster lists the different dance styles that auditions are being held for, including classical, bollywood, kathak, hip-hop, garba, kuthu, freestyle, and marath mol. The audition dates and venue are also provided.",
+          "text_locations": [
+            "top",
+            "center",
+            "bottom"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17896388517182343",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsCGOtgRDk/",
+        "caption": "🎶✨ Fall Auditions are here! ✨🎶\nDo you sing, play an instrument, or love creating music? NU Sanskriti Music Ensemble is looking for passionate musicians to join our crew this semester! \n\n Audition Date:\nSeptember 7, 2025 (6:00 PM - 8:00 PM)\nSeptember 14, 2025 (7:00 PM - 9:00 PM)\n\n Location: EV002, East Village Residence Hall\n\nCome share your talent and be part of a community that celebrates music from every corner of India and beyond. 💫\n\n👉 Register now. Link in bio\n\n#NUSanskriti #FallAuditions #MusicEnsemble #JoinTheCrew",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/562537261_17847894939578460_5981362442649740328_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SUDl4uc7UuoQ7kNvwGGKicO&_nc_oc=AdnYB9HVkFoFaJzMNIKX4A_YXfupW9SQEP9QbHkydDekzHswHF2GRyKNNnru3msa3z4&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfcEerFZ2evzWH5MOVXs7A4ixHbEGf5o-Pg1kb_dc_gAew&oe=68F0D40B",
+        "timestamp": "2025-10-11T23:50:31+0000",
+        "instagram_id": "17896388517182343"
+      },
+      "file_info": {
+        "image_name": "17896388517182343.jpg",
+        "image_path": "images/17896388517182343.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 18,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:50:06.461582+00:00",
+        "extracted_text": {
+          "main_text": "Music Auditions\nFALL 2025\nOpen to vocalists and instrumentalists\nSEPT. 7\n6:00PM - 8:00PM\nSEPT. 14\n7:00PM - 9:00PM\nEAST VILLAGE\nEV 002\nLINK IN BIO\nQuestions\nmusic@nusanskriti.org",
+          "title": "Music Auditions",
+          "keywords": [
+            "music",
+            "auditions",
+            "vocalists",
+            "instrumentalists",
+            "fall 2025"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a poster for music auditions happening in Fall 2025. The poster includes details about the audition dates, times, and location, as well as contact information for questions.",
+          "text_locations": [
+            "top",
+            "center",
+            "bottom"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17937202064961704",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsB-vjgamU/",
+        "caption": "🌸✨ Happy Onam! ✨🌸\n\nOnam is not just a festival, but a celebration of culture, unity, and togetherness 🤝\n\nLet’s come together to honor traditions, create memories, and spread joy this festive season 💛\n\n#HappyOnam #OnamCelebrations #CultureAndUnity #NUSanskriti #NortheasternUniversity #IndianStudentsNEU #BostonIndianCommunity #Onam2025 #NEUCulture #HuskiesAtHeart #NUFestivals #NUIndianClub #BostonLife #IndianStudentsUSA #IndianHeritage #BostonEvents #CulturalCelebration #NUEvents",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/562641307_17847894876578460_4416532975034484528_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=OKizcjl8xyAQ7kNvwHD9po8&_nc_oc=Adk4QzlK09P5FkcvFe2tVyxxrQ_z991p8hQ_CmPNxfQQqlkVPUd3YMOE47IffEtxa8o&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AfdnhPe9LH3w_ftM-ViRcJDUxOUlUJAtSRjSm0yOnBkKIw&oe=68F0F3EE",
+        "timestamp": "2025-10-11T23:49:30+0000",
+        "instagram_id": "17937202064961704"
+      },
+      "file_info": {
+        "image_name": "17937202064961704.jpg",
+        "image_path": "images/17937202064961704.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 19,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:50:15.105208+00:00",
+        "extracted_text": {
+          "main_text": "nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST A FESTIVAL BUT A GLOBAL CELEBRATION OF CULTURE AND UNITY",
+          "title": "HAPPY ONAM",
+          "keywords": [
+            "nu sanskriti",
+            "INDIAN STUDENTS' ASSOCIATION",
+            "ONAM",
+            "culture",
+            "unity"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows an illustration of a traditional Indian boat with people wearing traditional Indian clothing, along with the text 'nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST A FESTIVAL BUT A GLOBAL CELEBRATION OF CULTURE AND UNITY'.",
+          "text_locations": [
+            "top",
+            "center",
+            "bottom"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17909386638249624",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsBzShAQJR/",
+        "caption": "🌸✨ NU Sanskriti wishes you a very Happy Navratri! ✨🌸\n\nAs we step into these nine divine nights of devotion, dance, and togetherness, may Goddess Durga bless us all with strength, positivity, and prosperity. 🌺💫\n\nJoin us in celebrating the spirit of Indian culture, traditions, and festivals at Northeastern University where every beat of the dhol, every step of Garba, and every moment of togetherness makes us feel closer to home. 🪔💃\n\nLet’s make this Navratri unforgettable with colors, energy, and joy the NU way! 🔥🎉\n\n#HappyNavratri #NUSanskriti #NortheasternUniversity #NUEvents #BostonIndianCommunity #IndianStudentsNEU #BostonLife #IndianCulture #GarbaNight #Dandiya2025 #BostonNavratri #IndianFestivalsAbroad #IndianStudentsUSA #HuskiesAtHeart #CelebrateTogether",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/561851685_17847894777578460_4237360942117872982_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Mi0dVZENtGIQ7kNvwFUY36W&_nc_oc=Adnwt9QMd25WJ0Zi3e3oGUApdKCaBuUuRujYUxkuJhYmAzKbIMDNUw_oPs4zhWotTDQ&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_Aff61NoRH9D9CMxv4xMLB-ZmhrQmalkjDkF5TPAdg-AAMw&oe=68F0E368",
+        "timestamp": "2025-10-11T23:47:56+0000",
+        "instagram_id": "17909386638249624"
+      },
+      "file_info": {
+        "image_name": "17909386638249624.jpg",
+        "image_path": "images/17909386638249624.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 20,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:50:13.159697+00:00",
+        "extracted_text": {
+          "main_text": "HAPPY NAVRATRI\nCELEBRATE THE VICTORY OF GOOD OVER EVIL WITH LOVE AND DEVOTION.\nWISHING YOU A VIBRANT AND JOYFUL NAVRATRI!",
+          "title": "HAPPY NAVRATRI",
+          "keywords": [
+            "Navratri",
+            "Good over evil",
+            "Love and devotion",
+            "Vibrant and joyful"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image depicts a silhouette of the Hindu goddess Durga, representing the victory of good over evil. The text wishes the viewer a happy Navratri celebration, which is a major Hindu festival.",
+          "text_locations": [
+            "top-center",
+            "center"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "17892992631204872",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsBqT3Afy3/",
+        "caption": "✨ NU Sanskriti Navratri Calendar 2025 ✨\n\nGet ready for devotion, togetherness, and nine nights of garba💃🕺\n\nHere’s your official Navratri schedule with all the key dates and celebrations lined up at Northeastern University!\n\n#Navratri2025 #NUSanskriti\n#NortheasternUniversity #NEUIndianStudents\n#BostonIndianCommunity #GarbaNightBoston\n#DandiyaNight #IndianFestivalVibes #DesiAtNEU\n#NUFestivals #IndianStudentsInUSA #NEUCulture\n#SanskritiNavratri #NavratriCelebrations",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563520531_17847894666578460_2952075321135792618_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=y5h2n1LY150Q7kNvwG-zIW5&_nc_oc=Adk6Xq0FwlpuCcy4DooG2aG_GUjmk9kzeK0leW6mxC5PKLtNCEv9I4jjYhNqYqlfHZA&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AffntcUKZ9sDVopWii7XaRek5n-mhWMMFyVl0SAKEOQyaQ&oe=68F0E3A5",
+        "timestamp": "2025-10-11T23:46:42+0000",
+        "instagram_id": "17892992631204872"
+      },
+      "file_info": {
+        "image_name": "17892992631204872.jpg",
+        "image_path": "images/17892992631204872.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 21,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T02:50:04.455990+00:00",
+        "extracted_text": {
+          "main_text": "Nu Sanskriti Indian Students' Association Navratri Calender 2025 CELEBRATE THE BEAUTY OF NAVRATRI WITH US, AS WE COME TOGETHER FOR NIGHTS FILLED WITH GARBA, JOY, AND TRADITION!",
+          "title": "Navratri Calender 2025",
+          "keywords": [
+            "Navratri",
+            "Indian Students' Association",
+            "Garba",
+            "Tradition"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a colorful poster for the Navratri Calender 2025, organized by the Nu Sanskriti Indian Students' Association. The poster features illustrations of people dancing in traditional Indian attire, along with text celebrating the beauty of Navratri and the upcoming nights filled with Garba, joy, and tradition.",
+          "text_locations": [
+            "top-left",
+            "center",
+            "bottom"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18289412770275810",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsBjBgAc1F/",
+        "caption": "🌸 Happy Dussehra from NU Sanskriti! 🌸\nJoin us as we celebrate the spirit of victory and tradition with:\n✨ Shastra Pooja\n🪔 Daily Aarti\n💃 Garba\n🍛 Mahaprasad\n\n Krentzman Quad\n🗓️ October 2nd | 6:30 PM – 9:00 PM\nLet’s come together for a night of culture, devotion, and celebration! \n\n#HappyDussehra #DussehraCelebration #NUSanskriti #IndianStudentsNEU #GarbaNight #ShastraPooja #AartiVibes #Mahaprasad #NortheasternUniversity #NUEvents #BostonIndianCommunity #IndianFestivalsUSA #CulturalCelebration #DussehraAtNEU #NUFamily #IndianStudentsInBoston",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563130354_17847894489578460_1768238184565115884_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=sE2r6jGQMq0Q7kNvwE-_Rwc&_nc_oc=Adn2NW4x2MtP0R-lK2Jsu-Hdf2NRk5RqNQfDf4AN76RCs1HU1M_4eTAnNTiVBZcyY88&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_AffXQdgBhsCNy4-kWVS6yoVSQKcqLVUZeyd7uYD5i6Rvdw&oe=68F0D8A8",
+        "timestamp": "2025-10-11T23:45:43+0000",
+        "instagram_id": "18289412770275810"
+      },
+      "file_info": {
+        "image_name": "18289412770275810.jpg",
+        "image_path": "images/18289412770275810.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 22,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:42.918516+00:00",
+        "extracted_text": {
+          "main_text": "HAPPY DUSSEHRA\nOCTOBER 2nd 106:30pm - 9:00pm\nVenue : Krentzman Quad\n* SHASTRA POOJA * DAILY AARTI * GARBA * MAHAPRASAD *\nJOIN US IN CELEBRATION!",
+          "title": "HAPPY DUSSEHRA",
+          "keywords": [
+            "Dussehra",
+            "Shastra Pooja",
+            "Aarti",
+            "Garba",
+            "Mahaprasad"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a red background with a stylized sun or lotus-like symbol at the top. Below this is text announcing a Dussehra celebration event, including details like the date, time, venue, and activities like Shastra Pooja, Aarti, Garba, and Mahaprasad. At the bottom of the image is a silhouette of a person holding a bow and arrow.",
+          "text_locations": [
+            "top",
+            "center",
+            "bottom"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18085197692508923",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPsAwMcgYpJ/",
+        "caption": "✨ Get ready for the Biggest Garba Night and Deepawali Celebrations in Boston! ✨\n\nHere’s your quick guide on how to book your tickets for DeepRaas 2025! 💃\n\n Venue: Cabot Center, Northeastern University\n Date: October 19, 2025\n⏰ Tickets go LIVE at 1 PM today!\n🎟️ Don’t forget – if you’re bringing a +1, select quantity = 2 while checking out!\n\nLink  : https://go.nusanskriti.org/deepraas-2025-tickets\n\n#DeepRaas #NUSanskriti #GarbaNight #NortheasternUniversity #BostonEvents #NUBoston #NUFestivities #NavratriAtNU #NortheasternCulture #NUStudents #NUEvents #NUCommunity #GarbaBoston #NUCelebrations #CulturalFestNU #NUSpirit #NUCabot #NUCampusLife #StudentLifeNU",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/563382473_17847893892578460_8136863946780922440_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=P4t50rkiSewQ7kNvwHjD5UO&_nc_oc=AdldT6K95AQShmJZiEBuGnMnERzJCz5UPRjhMyuLMc0QhLPAS8LmWrF9GMOb1NuSbf8&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_Aff8VBzPEuCFRBN-ZyR8YjB-wRTwpoNgfmRrAhPu0Dyy-g&oe=68F0E3BD",
+        "timestamp": "2025-10-11T23:38:46+0000",
+        "instagram_id": "18085197692508923"
+      },
+      "file_info": {
+        "image_name": "18085197692508923.jpg",
+        "image_path": "images/18085197692508923.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 23,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:20.732180+00:00",
+        "extracted_text": {
+          "main_text": "BOOKING REQUIREMENT:\n• You can book tickets only using your Northeastern email ID.\n• You must buy a separate ticket for your +1 (NU +1 policy).\n• Select the quantity as 2 during checkout\n\nTHINGS KNOW BEFORE BOOKING TICKETS\n• Ticket Price: $7.99 per person\n• NU +1: Each Northeastern student can purchase one additional ticket for a Alumni or Non-NU Guest.",
+          "title": "Indian Students' Association",
+          "keywords": [
+            "booking requirement",
+            "ticket price",
+            "NU +1 policy"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a smartphone screen displaying information about booking requirements and things to know before booking tickets for an event organized by the Indian Students' Association at Northeastern University.",
+          "text_locations": [
+            "top-left",
+            "center",
+            "bottom-right"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    },
+    {
+      "post_id": "18141956464429928",
+      "source": "instagram",
+      "source_type": "instagram_graph_api",
+      "scraped_at": "2025-10-12T01:57:54.577890+00:00",
+      "scraper_version": "1.0",
+      "post_data": {
+        "post_url": "https://www.instagram.com/p/DPriClAgUJq/",
+        "caption": "this is the latest post",
+        "media_type": "IMAGE",
+        "media_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/562595501_17847862026578460_1917948570262700473_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=1-7&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=E1naL4Us2HUQ7kNvwGoJuUc&_nc_oc=Adlv4Gy8cbm5uG_0v7qSS-y115IK3avf46OSxGC1jBtWxfEtZ-X2LzavI2YbDK5wi6k&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=7n77ZAzDCKdivVFOD6YYsQ&oh=00_Afcx9LxBuVtt7Gd5nrX5CW500AA6mbJLChcGYa-jkOsXkw&oe=68F0C779",
+        "timestamp": "2025-10-11T19:10:24+0000",
+        "instagram_id": "18141956464429928"
+      },
+      "file_info": {
+        "image_name": "18141956464429928.jpg",
+        "image_path": "images/18141956464429928.jpg",
+        "download_success": true,
+        "file_exists": true
+      },
+      "processing_info": {
+        "processed_at": "2025-10-12T01:57:54.577890+00:00",
+        "index_in_batch": 24,
+        "api_response_received": true
+      },
+      "transcription": {
+        "status": "successful",
+        "transcribed_at": "2025-10-12T03:08:33.273461+00:00",
+        "extracted_text": {
+          "main_text": "EMPOWER X WOMENS RUN CLUB\nTuesday, September 30\nWear pink and blue\nMeet outside of Marino + Tatte @ 7pm",
+          "title": "EMPOWER X WOMENS RUN CLUB",
+          "keywords": [
+            "run club",
+            "women",
+            "empower"
+          ],
+          "confidence": 0.95,
+          "language": "english"
+        },
+        "image_analysis": {
+          "description": "The image shows a poster for an event called the 'EMPOWER X WOMENS RUN CLUB' taking place on Tuesday, September 30. The poster features the event title in large text and a silhouette of a running woman. It also provides details about the event, including the dress code and meeting location.",
+          "text_locations": [
+            "top-center",
+            "bottom-center"
+          ]
+        },
+        "method": "claude_vision_api"
+      }
+    }
+  ]
+}

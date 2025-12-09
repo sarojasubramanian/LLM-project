@@ -1,0 +1,62 @@
+[
+  {
+    "role": "user",
+    "content": "When is the fall fest conducted by Sanskriti?",
+    "timestamp": "2025-10-12T01:53:03.956915",
+    "metadata": {}
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the information provided in the Instagram posts, the fall fest conducted by Sanskriti at Northeastern University is scheduled for September 2, 2025 from 12 PM to 4 PM at the Egan Pathway. \n\nThe first post (similarity score of 0.45 and 95% transcription confidence) clearly states the details of the Fall Fest 2025 event organized by NU Sanskriti. It mentions the date, time, and location of the event.\n\nThe other posts provide additional context about other events and celebrations organized by NU Sanskriti, but do not contain any information about the specific timing of the Fall Fest.\n\nSo in summary, the Fall Fest conducted by Sanskriti at Northeastern University is on September 2, 2025 from 12 PM to 4 PM at the Egan Pathway, as per the details provided in the first Instagram post.\n\n📚 **Sources** (5 relevant posts):\n1. Post from 2025-10-11T23:52:16+0000 (Similarity: 45.2%, Quality: 95.0%) - [View Original](https://www.instagram.com/p/DPsCTClgau1/)\n2. Post from 2025-10-11T23:46:42+0000 (Similarity: 42.1%, Quality: 95.0%) - [View Original](https://www.instagram.com/p/DPsBqT3Afy3/)\n3. Post from 2025-10-12T00:02:59+0000 (Similarity: 39.1%, Quality: 95.0%) - [View Original](https://www.instagram.com/p/DPsDhkMgT_Q/)\n\n **Answer Confidence**: High (95.0%)",
+    "timestamp": "2025-10-12T01:53:05.772623",
+    "metadata": {
+      "search_result": {
+        "confidence_score": 0.9500000000000001,
+        "num_relevant_posts": 5,
+        "search_method": "pinecone_semantic",
+        "has_chat_context": true,
+        "timestamp": "2025-10-12T01:53:05.771724"
+      }
+    }
+  },
+  {
+    "role": "user",
+    "content": "Is there a Preparedness event ?",
+    "timestamp": "2025-10-12T01:54:03.183671",
+    "metadata": {}
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the information provided in the Instagram posts, there does appear to be a Preparedness event happening at Northeastern University. \n\nAccording to Post 2, the Preparedness Day event is scheduled for Thursday, October 16, 2025 from 10 AM to 2 PM at the Curry Student Center. This event is being hosted by Husky Card Services and Residential Security, and will provide information and resources on topics like your Husky Card, access with the GET Mobile app, residence hall access, and guest policies.\n\nThe post mentions this is a great opportunity for students to \"build confidence and find resources for tricky situations\", so it seems to be focused on helping students prepare for various campus-related scenarios.\n\nWhile the Fall Fest event on September 2nd is not directly related to the Preparedness Day, the two events appear to be part of the broader programming and activities organized by the NU Sanskriti student group at Northeastern University.\n\nLet me know if you need any other details! The information provided in these posts seems quite comprehensive in answering your question about the Preparedness event.\n\n📚 **Sources** (5 relevant posts):\n1. Post from 2025-10-11T23:52:16+0000 (Similarity: 55.9%, Quality: 95.0%) - [View Original](https://www.instagram.com/p/DPsCTClgau1/)\n2. Post from 2025-10-12T00:06:10+0000 (Similarity: 52.3%, Quality: 50.0%) - [View Original](https://www.instagram.com/p/DPsD41ZjNIb/)\n3. Post from 2025-10-11T23:46:42+0000 (Similarity: 50.8%, Quality: 95.0%) - [View Original](https://www.instagram.com/p/DPsBqT3Afy3/)\n\n **Answer Confidence**: High (85.7%)",
+    "timestamp": "2025-10-12T01:54:05.314866",
+    "metadata": {
+      "search_result": {
+        "confidence_score": 0.8571488287930501,
+        "num_relevant_posts": 5,
+        "search_method": "pinecone_semantic",
+        "has_chat_context": true,
+        "timestamp": "2025-10-12T01:54:05.313935"
+      }
+    }
+  },
+  {
+    "role": "user",
+    "content": "Tell me about recent ACM activities",
+    "timestamp": "2025-10-12T01:56:11.973526",
+    "metadata": {}
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the information provided in the Instagram posts, there are a few recent ACM (Association for Computing Machinery) activities mentioned:\n\n1. Preparedness Day Event (Post 1):\n   - This event is organized by Husky Card Services and Residential Security at Northeastern University.\n   - It is scheduled for Thursday, October 17, 2025 from 10 AM to 2 PM at the Curry Student Center.\n   - The event aims to provide information and resources on topics like Husky Card, GET Mobile access, residence hall access, and guest policies.\n   - The post has a transcription confidence of 95%.\n\n2. Empower x Women's Run Club (Post 2):\n   - This is a women's running club event happening on Tuesday, September 30th.\n   - Participants are encouraged to wear pink and blue.\n   - The event meets outside of Marino and Tatte at 7 PM.\n   - The post has a transcription confidence of 95%.\n\nHowever, the Instagram posts do not contain any direct information about recent ACM (Association for Computing Machinery) activities. The posts are focused on other events happening at Northeastern University, such as the Fall Fest organized by the NU Sanskriti community.\n\nIf you have any additional questions or need more information, please let me know.\n\n📚 **Sources** (5 relevant posts):\n1. Post from 2025-10-12T00:06:10+0000 (Similarity: 44.0%, Quality: 50.0%) - [View Original](https://www.instagram.com/p/DPsD41ZjNIb/)\n2. Post from 2025-10-11T19:10:24+0000 (Similarity: 41.1%, Quality: 95.0%) - [View Original](https://www.instagram.com/p/DPriClAgUJq/)\n3. Post from 2025-10-11T23:52:16+0000 (Similarity: 38.2%, Quality: 95.0%) - [View Original](https://www.instagram.com/p/DPsCTClgau1/)\n\n **Answer Confidence**: Good (76.7%)",
+    "timestamp": "2025-10-12T01:56:15.260674",
+    "metadata": {
+      "search_result": {
+        "confidence_score": 0.7674105496566965,
+        "num_relevant_posts": 5,
+        "search_method": "pinecone_semantic",
+        "has_chat_context": true,
+        "timestamp": "2025-10-12T01:56:15.257946"
+      }
+    }
+  }
+]

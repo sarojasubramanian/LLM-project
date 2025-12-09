@@ -1,0 +1,304 @@
+{
+  "evaluation_timestamp": "2025-12-10T00:51:44.964845",
+  "data_summary": {
+    "total_events": 123,
+    "data_source": "NEU Events"
+  },
+  "evaluations": {
+    "data_quality": {
+      "total_events": 123,
+      "completeness_scores": [
+        0.75,
+        1.0,
+        1.0,
+        0.75,
+        1.0,
+        1.0,
+        1.0,
+        0.75,
+        1.0,
+        0.75,
+        0.75,
+        0.75,
+        1.0,
+        1.0,
+        1.0,
+        0.75,
+        0.75,
+        1.0,
+        1.0,
+        0.75,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.75,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "missing_fields": {
+        "venue": 10
+      },
+      "data_issues": [],
+      "average_completeness": 0.9796747967479674,
+      "min_completeness": 0.75,
+      "fully_complete_events": 113,
+      "unique_venues": 37,
+      "events_with_venue": 113,
+      "venue_coverage": 0.9186991869918699
+    },
+    "extraction": {
+      "neu_events": {
+        "total_scraped": 123,
+        "complete_records": 113,
+        "partial_records": 10,
+        "failed_records": 0,
+        "field_extraction_rates": {
+          "title": 1.0,
+          "start": 1.0,
+          "venue": 0.9186991869918699,
+          "description": 1.0,
+          "url": 1.0
+        }
+      }
+    },
+    "temporal": {
+      "date_parsing_accuracy": 1.0,
+      "relative_date_tests": [
+        {
+          "test": "this_weekend",
+          "events_found": 7,
+          "success": true
+        },
+        {
+          "test": "next_week",
+          "events_found": 28,
+          "success": true
+        },
+        {
+          "test": "today",
+          "events_found": 3,
+          "success": true
+        }
+      ],
+      "date_range_coverage": {
+        "earliest_event": "2025-10-11T11:00:00-04:00",
+        "latest_event": "2025-11-08T19:00:00-05:00",
+        "total_days_covered": 28,
+        "events_per_day": 4.241379310344827
+      },
+      "date_parsing_errors": []
+    },
+    "rag_system": {
+      "embedding_quality": {
+        "average_similarity": "0.1754358",
+        "min_similarity": "-0.050928567",
+        "max_similarity": "0.99999994",
+        "std_similarity": "0.19648828"
+      },
+      "retrieval_tests": [
+        {
+          "query": "meditation and yoga events",
+          "type": "keyword_based",
+          "top_5_results": [
+            "Daily Yoga",
+            "Daily Yoga",
+            "Daily Yoga",
+            "Daily Yoga",
+            "Daily Yoga"
+          ],
+          "top_5_scores": [
+            "0.5925402",
+            "0.5925402",
+            "0.5925402",
+            "0.5925402",
+            "0.5925402"
+          ],
+          "precision": 1.0
+        },
+        {
+          "query": "sports events at Matthews Arena",
+          "type": "venue_based",
+          "top_5_results": [
+            "Men's Ice Hockey vs Harvard (Exhibition)",
+            "Men's Ice Hockey vs Denver",
+            "Men's Ice Hockey vs Boston College",
+            "Men's Ice Hockey vs Stonehill",
+            "Men's Ice Hockey vs Stonehill"
+          ],
+          "top_5_scores": [
+            "0.6945894",
+            "0.66450536",
+            "0.66225207",
+            "0.66168845",
+            "0.66168845"
+          ],
+          "precision": 1.0
+        },
+        {
+          "query": "AI and technology workshops",
+          "type": "topic_based",
+          "top_5_results": [
+            "Efficient Use of AI Projects",
+            "Efficient Use of AI Projects",
+            "AI Skills for the Workplace",
+            "AI Skills for the Workplace",
+            "Strategies for AI Use in Large Format Courses"
+          ],
+          "top_5_scores": [
+            "0.5645306",
+            "0.5645306",
+            "0.50362176",
+            "0.50362176",
+            "0.48666644"
+          ]
+        }
+      ],
+      "query_coverage": {
+        "venue_queries": {
+          "total_unique_venues": 37,
+          "events_with_venue": 113,
+          "venue_coverage_rate": 0.9186991869918699,
+          "average_events_per_venue": 3.054054054054054
+        },
+        "temporal_queries": {
+          "unique_dates": 29,
+          "date_range_days": 29,
+          "date_coverage_rate": 1.0,
+          "events_per_day": 4.241379310344827
+        },
+        "topic_queries": {
+          "sports": 22,
+          "wellness": 41,
+          "academic": 13,
+          "career": 7,
+          "arts": 46,
+          "technology": 71
+        }
+      }
+    },
+    "performance": {
+      "f1_scores": [
+        1.0,
+        0
+      ],
+      "precision_scores": [
+        1.0,
+        0.0
+      ],
+      "recall_scores": [
+        1.0,
+        0.0
+      ],
+      "mrr_score": 0.5,
+      "ndcg_score": 0,
+      "avg_precision": 0.5,
+      "avg_recall": 0.5,
+      "avg_f1": 0.5
+    }
+  },
+  "overall_scores": {
+    "data_quality_score": 0.9796747967479674,
+    "extraction_score": 1.0,
+    "temporal_accuracy": 1.0,
+    "rag_precision": 0.6666666666666666,
+    "overall_f1": 0.5,
+    "weighted_overall": 0.8376016260162601
+  }
+}

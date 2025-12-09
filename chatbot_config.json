@@ -1,0 +1,48 @@
+{
+  "app_config": {
+    "title": "Instagram RAG Chatbot",
+    "page_icon": "",
+    "layout": "wide",
+    "theme": {
+      "primary_color": "#FF6B6B",
+      "background_color": "#FFFFFF",
+      "secondary_background_color": "#F0F2F6"
+    }
+  },
+  "rag_config": {
+    "data_file": "data/metadata/scraped_provenance.json",
+    "index_name": "acm-hackathon",
+    "max_search_results": 5,
+    "similarity_threshold": 0.3
+  },
+  "chat_config": {
+    "max_history": 100,
+    "context_messages": 10,
+    "history_file": "data/chat_history.json",
+    "auto_save": true
+  },
+  "sample_questions": [
+    "What events is NU Sanskriti hosting?",
+    "Tell me about Navratri celebrations",
+    "What dance auditions are happening?",
+    "When is move-in week?",
+    "Are there any upcoming workshops?",
+    "What cultural events are planned?",
+    "Tell me about recent ACM activities",
+    "Any coding competitions coming up?",
+    "What social events are happening this month?"
+  ],
+  "ui_messages": {
+    "welcome": " Hello! I'm your Instagram RAG assistant. Ask me about events, workshops, or anything from the Instagram posts!",
+    "initializing": " Initializing RAG system...",
+    "searching": " Searching Instagram posts...",
+    "system_ready": " System Ready",
+    "system_not_ready": " System Not Initialized",
+    "error_prefix": " Sorry, I encountered an error:"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file": "logs/chatbot.log"
+  }
+}

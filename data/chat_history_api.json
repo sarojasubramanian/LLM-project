@@ -1,0 +1,240 @@
+{
+  "chat_history": {
+    "default": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2025-10-12T10:55:09.038956",
+        "metadata": {}
+      },
+      {
+        "role": "assistant",
+        "content": "I couldn't find any relevant information about that in the Instagram posts stored in Pinecone.",
+        "timestamp": "2025-10-12T10:55:09.797667",
+        "metadata": {
+          "events": [],
+          "confidence": 0.0,
+          "sources": 0
+        }
+      },
+      {
+        "role": "user",
+        "content": "Show me celebration events",
+        "timestamp": "2025-10-12T10:55:40.460494",
+        "metadata": {}
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the Instagram posts provided, it looks like the NU Sanskriti Indian Students' Association at Northeastern University is hosting several celebration events that you might be interested in:\n\n1. Onam Celebration (Post 1, Similarity: 0.48, Transcription Confidence: 95%)\n- This is a celebration of Indian culture, unity, and tradition.\n- It's happening on October 11, 2025.\n- The event details are not fully clear, but it seems to involve honoring traditions and creating memories.\n\n2. Dussehra Celebration (Post 2, Similarity: 0.44, Transcription Confidence: 95%)\n- This event is happening on October 2nd, 2025 from 6:30 PM to 9:00 PM.\n- It will take place at the Krentzman Quad on Northeastern's campus.\n- The celebration will include Shastra Pooja, daily Aarti, Garba dancing, and Mahaprasad (a communal meal).\n\n3. Janmashtami Celebration (Post 3, Similarity: 0.43, Transcription Confidence: 95%)\n- This is a celebration of Lord Krishna's birthday.\n- The event is happening on August 16th, with a Krishna Bhajan Sandhya (devotional music performance) at 7:00 PM.\n- The venue is the Sacred Space on Northeastern's campus.\n\nSo in summary, the NU Sanskriti Indian Students' Association seems to be hosting several cultural celebration events throughout the year that you may want to check out. The posts provide details on Onam, Dussehra, and Janmashtami celebrations. Let me know if you need any other information!",
+        "timestamp": "2025-10-12T10:55:44.126138",
+        "metadata": {
+          "events": [
+            {
+              "title": "🌸 Happy Onam! 🌸",
+              "description": " Event Details from Instagram Analysis:\nBased on the Instagram posts provided, it looks like the NU Sanskriti Indian Students' Association at Northeastern University is hosting several celebration events that you might be interested in:\n\n1. Onam Celebration (Post 1, Similarity: 0.48, Transcription Confidence: 95%)\n- This is a celebration ...\n\n📱 Original Caption: 🌸✨ Happy Onam! ✨🌸\n\nOnam is not just a festival, but a celebration of culture, unity, and togetherness 🤝\n\nLet’s come together to honor traditions, create memories, and spread joy this festive season 💛...\n\n Image Text: nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST A FESTIVAL BUT A GLOBAL CELEBRATION OF CULTURE AND UNITY...\n\n🏷️ Tags: nu sanskriti, INDIAN STUDENTS' ASSOCIATION, ONAM, culture, unity\n\n Auto-detected from Instagram on 2025-10-12 10:55",
+              "location": "ion of culture, unity, and togetherness",
+              "organizer": "17937202064961704",
+              "source_url": "https://www.instagram.com/p/DPsB-vjgamU/",
+              "keywords": [
+                "nu sanskriti",
+                "INDIAN STUDENTS' ASSOCIATION",
+                "ONAM",
+                "culture",
+                "unity"
+              ],
+              "confidence": 0.95,
+              "post_data": {
+                "post_id": "17937202064961704",
+                "post_url": "https://www.instagram.com/p/DPsB-vjgamU/",
+                "timestamp": "2025-10-11T23:49:30+0000",
+                "confidence": 0.95,
+                "similarity_score": 0.478191406,
+                "caption": "🌸✨ Happy Onam! ✨🌸\n\nOnam is not just a festival, but a celebration of culture, unity, and togetherness 🤝\n\nLet’s come together to honor traditions, create memories, and spread joy this festive season 💛\n\n#HappyOnam #OnamCelebrations #CultureAndUnity #NUSanskriti #NortheasternUniversity #IndianStudentsNEU #BostonIndianCommunity #Onam2025 #NEUCulture #HuskiesAtHeart #NUFestivals #NUIndianClub #BostonLife #IndianStudentsUSA #IndianHeritage #BostonEvents #CulturalCelebration #NUEvents",
+                "transcribed_text": "nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST A FESTIVAL BUT A GLOBAL CELEBRATION OF CULTURE AND UNITY",
+                "keywords": [
+                  "nu sanskriti",
+                  "INDIAN STUDENTS' ASSOCIATION",
+                  "ONAM",
+                  "culture",
+                  "unity"
+                ],
+                "image_description": "The image shows an illustration of a traditional Indian boat with people wearing traditional Indian clothing, along with the text 'nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST",
+                "combined_text": "Caption: 🌸✨ Happy Onam! ✨🌸\n\nOnam is not just a festival, but a celebration of culture, unity, and togetherness 🤝\n\nLet’s come together to honor traditions, create memories, and spread joy this festive season 💛\n\n#HappyOnam #OnamCelebrations #CultureAndUnity #NUSanskriti #NortheasternUniversity #IndianStudentsNEU #BostonIndianCommunity #Onam2025 #NEUCulture #HuskiesAtHeart #NUFestivals #NUIndianClub #BostonLife #IndianStudentsUSA #IndianHeritage #BostonEvents #CulturalCelebration #NUEvents | Image Text: nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST A FESTIVAL BUT A GLOBAL CELEBRATION OF CULTURE AND UNITY | Image Description: The image shows an illustration of a traditional Indian boat with people wearing traditional Indian clothing, along with the text 'nu sanskriti I"
+              },
+              "start_datetime": "2025-10-11T18:30:00"
+            },
+            {
+              "title": "🌸 Happy Dussehra from NU Sanskriti! 🌸",
+              "description": " Event Details from Instagram Analysis:\nBased on the Instagram posts provided, it looks like the NU Sanskriti Indian Students' Association at Northeastern University is hosting several celebration events that you might be interested in:\n\n1. Onam Celebration (Post 1, Similarity: 0.48, Transcription Confidence: 95%)\n- This is a celebration ...\n\n📱 Original Caption: 🌸 Happy Dussehra from NU Sanskriti! 🌸\nJoin us as we celebrate the spirit of victory and tradition with:\n✨ Shastra Pooja\n🪔 Daily Aarti\n💃 Garba\n🍛 Mahaprasad\n\n Krentzman Quad\n🗓️ October 2nd | 6:30 PM – ...\n\n Image Text: HAPPY DUSSEHRA\nOCTOBER 2nd 106:30pm - 9:00pm\nVenue : Krentzman Quad\n* SHASTRA POOJA * DAILY AARTI * GARBA * MAHAPRASAD *\nJOIN US IN CELEBRATION!...\n\n🏷️ Tags: Dussehra, Shastra Pooja, Aarti, Garba, Mahaprasad\n\n Auto-detected from Instagram on 2025-10-12 10:55",
+              "location": "e the spirit of victory and tradition with",
+              "organizer": "18289412770275810",
+              "source_url": "https://www.instagram.com/p/DPsBjBgAc1F/",
+              "keywords": [
+                "Dussehra",
+                "Shastra Pooja",
+                "Aarti",
+                "Garba",
+                "Mahaprasad"
+              ],
+              "confidence": 0.95,
+              "post_data": {
+                "post_id": "18289412770275810",
+                "post_url": "https://www.instagram.com/p/DPsBjBgAc1F/",
+                "timestamp": "2025-10-11T23:45:43+0000",
+                "confidence": 0.95,
+                "similarity_score": 0.443975449,
+                "caption": "🌸 Happy Dussehra from NU Sanskriti! 🌸\nJoin us as we celebrate the spirit of victory and tradition with:\n✨ Shastra Pooja\n🪔 Daily Aarti\n💃 Garba\n🍛 Mahaprasad\n\n Krentzman Quad\n🗓️ October 2nd | 6:30 PM – 9:00 PM\nLet’s come together for a night of culture, devotion, and celebration! \n\n#HappyDussehra #DussehraCelebration #NUSanskriti #IndianStudentsNEU #GarbaNight #ShastraPooja #AartiVibes #Mahaprasad #NortheasternUniversity #NUEvents #BostonIndianCommunity #IndianFestivalsUSA #CulturalCelebration #D",
+                "transcribed_text": "HAPPY DUSSEHRA\nOCTOBER 2nd 106:30pm - 9:00pm\nVenue : Krentzman Quad\n* SHASTRA POOJA * DAILY AARTI * GARBA * MAHAPRASAD *\nJOIN US IN CELEBRATION!",
+                "keywords": [
+                  "Dussehra",
+                  "Shastra Pooja",
+                  "Aarti",
+                  "Garba",
+                  "Mahaprasad"
+                ],
+                "image_description": "The image shows a red background with a stylized sun or lotus-like symbol at the top. Below this is text announcing a Dussehra celebration event, including details like the date, time, venue, and acti",
+                "combined_text": "Caption: 🌸 Happy Dussehra from NU Sanskriti! 🌸\nJoin us as we celebrate the spirit of victory and tradition with:\n✨ Shastra Pooja\n🪔 Daily Aarti\n💃 Garba\n🍛 Mahaprasad\n\n Krentzman Quad\n🗓️ October 2nd | 6:30 PM – 9:00 PM\nLet’s come together for a night of culture, devotion, and celebration! \n\n#HappyDussehra #DussehraCelebration #NUSanskriti #IndianStudentsNEU #GarbaNight #ShastraPooja #AartiVibes #Mahaprasad #NortheasternUniversity #NUEvents #BostonIndianCommunity #IndianFestivalsUSA #CulturalCelebration #DussehraAtNEU #NUFamily #IndianStudentsInBoston | Image Text: HAPPY DUSSEHRA\nOCTOBER 2nd 106:30pm - 9:00pm\nVenue : Krentzman Quad\n* SHASTRA POOJA * DAILY AARTI * GARBA * MAHAPRASAD *\nJOIN US IN CELEBRATION! | Image Description: The image shows a red background with a stylized sun or lotus-li"
+              },
+              "start_datetime": "2025-10-11T18:30:00"
+            },
+            {
+              "title": "🌸🙏 Happy Janmashtami! 🙏🌸",
+              "description": " Event Details from Instagram Analysis:\nBased on the Instagram posts provided, it looks like the NU Sanskriti Indian Students' Association at Northeastern University is hosting several celebration events that you might be interested in:\n\n1. Onam Celebration (Post 1, Similarity: 0.48, Transcription Confidence: 95%)\n- This is a celebration ...\n\n📱 Original Caption: 🌸🙏 Happy Janmashtami! 🙏🌸\nNU Sanskriti wishes you a day filled with joy, devotion, and blessings on the auspicious birth anniversary of Lord Krishna. 💛🎶\nMay the teachings of Krishna inspire us to live ...\n\n Image Text: Nu Sanskruti INDIAN STUDENTS' ASSOCIATION Happy Janmashtami KRISHNA BHAJAN SANDHYA JOIN US IN CELEBRATING THE AUSPICIOUS OCCASION OF LORD KRISHNA'S BIRTHDAY AUGUST 16TH TIME: 7:00PM VENUE : SACRED SPA...\n\n🏷️ Tags: Krishna Bhajan Sandhya, Lord Krishna's Birthday, Indian Students' Association\n\n Auto-detected from Instagram on 2025-10-12 10:55",
+              "location": "NU Sanskriti, we wish our Northeastern University",
+              "organizer": "18078341705474759",
+              "source_url": "https://www.instagram.com/p/DPsDSbRgeH1/",
+              "keywords": [
+                "Krishna Bhajan Sandhya",
+                "Lord Krishna's Birthday",
+                "Indian Students' Association"
+              ],
+              "confidence": 0.95,
+              "post_data": {
+                "post_id": "18078341705474759",
+                "post_url": "https://www.instagram.com/p/DPsDSbRgeH1/",
+                "timestamp": "2025-10-12T00:00:55+0000",
+                "confidence": 0.95,
+                "similarity_score": 0.434196472,
+                "caption": "🌸🙏 Happy Janmashtami! 🙏🌸\nNU Sanskriti wishes you a day filled with joy, devotion, and blessings on the auspicious birth anniversary of Lord Krishna. 💛🎶\nMay the teachings of Krishna inspire us to live with love, wisdom, and harmony. 🌼✨\n\nFrom all of us at NU Sanskriti, we wish our Northeastern University family and the Indian community in Boston a blissful and vibrant Janmashtami! 🌿🪔",
+                "transcribed_text": "Nu Sanskruti INDIAN STUDENTS' ASSOCIATION Happy Janmashtami KRISHNA BHAJAN SANDHYA JOIN US IN CELEBRATING THE AUSPICIOUS OCCASION OF LORD KRISHNA'S BIRTHDAY AUGUST 16TH TIME: 7:00PM VENUE : SACRED SPACE",
+                "keywords": [
+                  "Krishna Bhajan Sandhya",
+                  "Lord Krishna's Birthday",
+                  "Indian Students' Association"
+                ],
+                "image_description": "The image shows an invitation for a Krishna Bhajan Sandhya event organized by the Indian Students' Association. It features the association's logo, a message wishing 'Happy Janmashtami', and details a",
+                "combined_text": "Caption: 🌸🙏 Happy Janmashtami! 🙏🌸\nNU Sanskriti wishes you a day filled with joy, devotion, and blessings on the auspicious birth anniversary of Lord Krishna. 💛🎶\nMay the teachings of Krishna inspire us to live with love, wisdom, and harmony. 🌼✨\n\nFrom all of us at NU Sanskriti, we wish our Northeastern University family and the Indian community in Boston a blissful and vibrant Janmashtami! 🌿🪔 | Image Text: Nu Sanskruti INDIAN STUDENTS' ASSOCIATION Happy Janmashtami KRISHNA BHAJAN SANDHYA JOIN US IN CELEBRATING THE AUSPICIOUS OCCASION OF LORD KRISHNA'S BIRTHDAY AUGUST 16TH TIME: 7:00PM VENUE : SACRED SPACE | Image Description: The image shows an invitation for a Krishna Bhajan Sandhya event organized by the Indian Students' Association. It features the association's logo, a message wishing 'H"
+              },
+              "start_datetime": "2025-10-11T06:30:00"
+            }
+          ],
+          "confidence": 0.9499999999999998,
+          "sources": 5
+        }
+      }
+    ]
+  },
+  "detected_events": {
+    "default": [
+      {
+        "title": "🌸 Happy Onam! 🌸",
+        "description": " Event Details from Instagram Analysis:\nBased on the Instagram posts provided, it looks like the NU Sanskriti Indian Students' Association at Northeastern University is hosting several celebration events that you might be interested in:\n\n1. Onam Celebration (Post 1, Similarity: 0.48, Transcription Confidence: 95%)\n- This is a celebration ...\n\n📱 Original Caption: 🌸✨ Happy Onam! ✨🌸\n\nOnam is not just a festival, but a celebration of culture, unity, and togetherness 🤝\n\nLet’s come together to honor traditions, create memories, and spread joy this festive season 💛...\n\n Image Text: nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST A FESTIVAL BUT A GLOBAL CELEBRATION OF CULTURE AND UNITY...\n\n🏷️ Tags: nu sanskriti, INDIAN STUDENTS' ASSOCIATION, ONAM, culture, unity\n\n Auto-detected from Instagram on 2025-10-12 10:55",
+        "location": "ion of culture, unity, and togetherness",
+        "organizer": "17937202064961704",
+        "source_url": "https://www.instagram.com/p/DPsB-vjgamU/",
+        "keywords": [
+          "nu sanskriti",
+          "INDIAN STUDENTS' ASSOCIATION",
+          "ONAM",
+          "culture",
+          "unity"
+        ],
+        "confidence": 0.95,
+        "post_data": {
+          "post_id": "17937202064961704",
+          "post_url": "https://www.instagram.com/p/DPsB-vjgamU/",
+          "timestamp": "2025-10-11T23:49:30+0000",
+          "confidence": 0.95,
+          "similarity_score": 0.478191406,
+          "caption": "🌸✨ Happy Onam! ✨🌸\n\nOnam is not just a festival, but a celebration of culture, unity, and togetherness 🤝\n\nLet’s come together to honor traditions, create memories, and spread joy this festive season 💛\n\n#HappyOnam #OnamCelebrations #CultureAndUnity #NUSanskriti #NortheasternUniversity #IndianStudentsNEU #BostonIndianCommunity #Onam2025 #NEUCulture #HuskiesAtHeart #NUFestivals #NUIndianClub #BostonLife #IndianStudentsUSA #IndianHeritage #BostonEvents #CulturalCelebration #NUEvents",
+          "transcribed_text": "nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST A FESTIVAL BUT A GLOBAL CELEBRATION OF CULTURE AND UNITY",
+          "keywords": [
+            "nu sanskriti",
+            "INDIAN STUDENTS' ASSOCIATION",
+            "ONAM",
+            "culture",
+            "unity"
+          ],
+          "image_description": "The image shows an illustration of a traditional Indian boat with people wearing traditional Indian clothing, along with the text 'nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST",
+          "combined_text": "Caption: 🌸✨ Happy Onam! ✨🌸\n\nOnam is not just a festival, but a celebration of culture, unity, and togetherness 🤝\n\nLet’s come together to honor traditions, create memories, and spread joy this festive season 💛\n\n#HappyOnam #OnamCelebrations #CultureAndUnity #NUSanskriti #NortheasternUniversity #IndianStudentsNEU #BostonIndianCommunity #Onam2025 #NEUCulture #HuskiesAtHeart #NUFestivals #NUIndianClub #BostonLife #IndianStudentsUSA #IndianHeritage #BostonEvents #CulturalCelebration #NUEvents | Image Text: nu sanskriti INDIAN STUDENTS' ASSOCIATION HAPPY ONAM ONAM IS NOT JUST A FESTIVAL BUT A GLOBAL CELEBRATION OF CULTURE AND UNITY | Image Description: The image shows an illustration of a traditional Indian boat with people wearing traditional Indian clothing, along with the text 'nu sanskriti I"
+        },
+        "start_datetime": "2025-10-11T18:30:00"
+      },
+      {
+        "title": "🌸 Happy Dussehra from NU Sanskriti! 🌸",
+        "description": " Event Details from Instagram Analysis:\nBased on the Instagram posts provided, it looks like the NU Sanskriti Indian Students' Association at Northeastern University is hosting several celebration events that you might be interested in:\n\n1. Onam Celebration (Post 1, Similarity: 0.48, Transcription Confidence: 95%)\n- This is a celebration ...\n\n📱 Original Caption: 🌸 Happy Dussehra from NU Sanskriti! 🌸\nJoin us as we celebrate the spirit of victory and tradition with:\n✨ Shastra Pooja\n🪔 Daily Aarti\n💃 Garba\n🍛 Mahaprasad\n\n Krentzman Quad\n🗓️ October 2nd | 6:30 PM – ...\n\n Image Text: HAPPY DUSSEHRA\nOCTOBER 2nd 106:30pm - 9:00pm\nVenue : Krentzman Quad\n* SHASTRA POOJA * DAILY AARTI * GARBA * MAHAPRASAD *\nJOIN US IN CELEBRATION!...\n\n🏷️ Tags: Dussehra, Shastra Pooja, Aarti, Garba, Mahaprasad\n\n Auto-detected from Instagram on 2025-10-12 10:55",
+        "location": "e the spirit of victory and tradition with",
+        "organizer": "18289412770275810",
+        "source_url": "https://www.instagram.com/p/DPsBjBgAc1F/",
+        "keywords": [
+          "Dussehra",
+          "Shastra Pooja",
+          "Aarti",
+          "Garba",
+          "Mahaprasad"
+        ],
+        "confidence": 0.95,
+        "post_data": {
+          "post_id": "18289412770275810",
+          "post_url": "https://www.instagram.com/p/DPsBjBgAc1F/",
+          "timestamp": "2025-10-11T23:45:43+0000",
+          "confidence": 0.95,
+          "similarity_score": 0.443975449,
+          "caption": "🌸 Happy Dussehra from NU Sanskriti! 🌸\nJoin us as we celebrate the spirit of victory and tradition with:\n✨ Shastra Pooja\n🪔 Daily Aarti\n💃 Garba\n🍛 Mahaprasad\n\n Krentzman Quad\n🗓️ October 2nd | 6:30 PM – 9:00 PM\nLet’s come together for a night of culture, devotion, and celebration! \n\n#HappyDussehra #DussehraCelebration #NUSanskriti #IndianStudentsNEU #GarbaNight #ShastraPooja #AartiVibes #Mahaprasad #NortheasternUniversity #NUEvents #BostonIndianCommunity #IndianFestivalsUSA #CulturalCelebration #D",
+          "transcribed_text": "HAPPY DUSSEHRA\nOCTOBER 2nd 106:30pm - 9:00pm\nVenue : Krentzman Quad\n* SHASTRA POOJA * DAILY AARTI * GARBA * MAHAPRASAD *\nJOIN US IN CELEBRATION!",
+          "keywords": [
+            "Dussehra",
+            "Shastra Pooja",
+            "Aarti",
+            "Garba",
+            "Mahaprasad"
+          ],
+          "image_description": "The image shows a red background with a stylized sun or lotus-like symbol at the top. Below this is text announcing a Dussehra celebration event, including details like the date, time, venue, and acti",
+          "combined_text": "Caption: 🌸 Happy Dussehra from NU Sanskriti! 🌸\nJoin us as we celebrate the spirit of victory and tradition with:\n✨ Shastra Pooja\n🪔 Daily Aarti\n💃 Garba\n🍛 Mahaprasad\n\n Krentzman Quad\n🗓️ October 2nd | 6:30 PM – 9:00 PM\nLet’s come together for a night of culture, devotion, and celebration! \n\n#HappyDussehra #DussehraCelebration #NUSanskriti #IndianStudentsNEU #GarbaNight #ShastraPooja #AartiVibes #Mahaprasad #NortheasternUniversity #NUEvents #BostonIndianCommunity #IndianFestivalsUSA #CulturalCelebration #DussehraAtNEU #NUFamily #IndianStudentsInBoston | Image Text: HAPPY DUSSEHRA\nOCTOBER 2nd 106:30pm - 9:00pm\nVenue : Krentzman Quad\n* SHASTRA POOJA * DAILY AARTI * GARBA * MAHAPRASAD *\nJOIN US IN CELEBRATION! | Image Description: The image shows a red background with a stylized sun or lotus-li"
+        },
+        "start_datetime": "2025-10-11T18:30:00"
+      },
+      {
+        "title": "🌸🙏 Happy Janmashtami! 🙏🌸",
+        "description": " Event Details from Instagram Analysis:\nBased on the Instagram posts provided, it looks like the NU Sanskriti Indian Students' Association at Northeastern University is hosting several celebration events that you might be interested in:\n\n1. Onam Celebration (Post 1, Similarity: 0.48, Transcription Confidence: 95%)\n- This is a celebration ...\n\n📱 Original Caption: 🌸🙏 Happy Janmashtami! 🙏🌸\nNU Sanskriti wishes you a day filled with joy, devotion, and blessings on the auspicious birth anniversary of Lord Krishna. 💛🎶\nMay the teachings of Krishna inspire us to live ...\n\n Image Text: Nu Sanskruti INDIAN STUDENTS' ASSOCIATION Happy Janmashtami KRISHNA BHAJAN SANDHYA JOIN US IN CELEBRATING THE AUSPICIOUS OCCASION OF LORD KRISHNA'S BIRTHDAY AUGUST 16TH TIME: 7:00PM VENUE : SACRED SPA...\n\n🏷️ Tags: Krishna Bhajan Sandhya, Lord Krishna's Birthday, Indian Students' Association\n\n Auto-detected from Instagram on 2025-10-12 10:55",
+        "location": "NU Sanskriti, we wish our Northeastern University",
+        "organizer": "18078341705474759",
+        "source_url": "https://www.instagram.com/p/DPsDSbRgeH1/",
+        "keywords": [
+          "Krishna Bhajan Sandhya",
+          "Lord Krishna's Birthday",
+          "Indian Students' Association"
+        ],
+        "confidence": 0.95,
+        "post_data": {
+          "post_id": "18078341705474759",
+          "post_url": "https://www.instagram.com/p/DPsDSbRgeH1/",
+          "timestamp": "2025-10-12T00:00:55+0000",
+          "confidence": 0.95,
+          "similarity_score": 0.434196472,
+          "caption": "🌸🙏 Happy Janmashtami! 🙏🌸\nNU Sanskriti wishes you a day filled with joy, devotion, and blessings on the auspicious birth anniversary of Lord Krishna. 💛🎶\nMay the teachings of Krishna inspire us to live with love, wisdom, and harmony. 🌼✨\n\nFrom all of us at NU Sanskriti, we wish our Northeastern University family and the Indian community in Boston a blissful and vibrant Janmashtami! 🌿🪔",
+          "transcribed_text": "Nu Sanskruti INDIAN STUDENTS' ASSOCIATION Happy Janmashtami KRISHNA BHAJAN SANDHYA JOIN US IN CELEBRATING THE AUSPICIOUS OCCASION OF LORD KRISHNA'S BIRTHDAY AUGUST 16TH TIME: 7:00PM VENUE : SACRED SPACE",
+          "keywords": [
+            "Krishna Bhajan Sandhya",
+            "Lord Krishna's Birthday",
+            "Indian Students' Association"
+          ],
+          "image_description": "The image shows an invitation for a Krishna Bhajan Sandhya event organized by the Indian Students' Association. It features the association's logo, a message wishing 'Happy Janmashtami', and details a",
+          "combined_text": "Caption: 🌸🙏 Happy Janmashtami! 🙏🌸\nNU Sanskriti wishes you a day filled with joy, devotion, and blessings on the auspicious birth anniversary of Lord Krishna. 💛🎶\nMay the teachings of Krishna inspire us to live with love, wisdom, and harmony. 🌼✨\n\nFrom all of us at NU Sanskriti, we wish our Northeastern University family and the Indian community in Boston a blissful and vibrant Janmashtami! 🌿🪔 | Image Text: Nu Sanskruti INDIAN STUDENTS' ASSOCIATION Happy Janmashtami KRISHNA BHAJAN SANDHYA JOIN US IN CELEBRATING THE AUSPICIOUS OCCASION OF LORD KRISHNA'S BIRTHDAY AUGUST 16TH TIME: 7:00PM VENUE : SACRED SPACE | Image Description: The image shows an invitation for a Krishna Bhajan Sandhya event organized by the Indian Students' Association. It features the association's logo, a message wishing 'H"
+        },
+        "start_datetime": "2025-10-11T06:30:00"
+      }
+    ]
+  },
+  "last_updated": "2025-10-12T11:00:13.473793"
+}
